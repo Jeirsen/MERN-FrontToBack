@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://mern-stack:fd1bhHxEb6EjA1Rj@development.trkdf.mongodb.net/test?retryWrites=true&w=majority",
+  "JWTSecret": "e86689acaabb0e6f2728f121b7bcc5a3"
+}
